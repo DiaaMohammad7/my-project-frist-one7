@@ -1,4 +1,7 @@
-diaa 
-log(1)
+#diaa 
+#log(1)
 print(7)
-#hello
+hello
+1
+2
+
